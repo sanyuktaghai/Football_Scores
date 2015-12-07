@@ -40,4 +40,9 @@
      <string name="widget_title">Football Scores</string>  
     <string name="widget_empty_text">No data to be displayed</string> 
     <string name="widget_detail_title">Todays Football Scores</string>
+
+    <!-- Content Descriptions-->
+    <string name="share_button">SHARE</string>
+    <string name="home_team">HOME TEAM</string>
+    <string name="away_team">AWAY TEAM</string>
 </resources>
